@@ -60,6 +60,10 @@ In addition to that, Rails also comes with:
 - [Curses gem kurulum hatası](https://lynxbee.com/how-to-resolve-fatal-error-curses-h-no-such-file-or-directory/#.YmuzJFBBzIU)
 - [ruby-build kurulması](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04)
 
+HTML dosyaları üretmek için guides klasöründe
+
+        $ bundle exec rake guides:generate:html GUIDES_LANGUAGE=tr-TR
+
 1. Install Rails at the command prompt if you haven't yet:
 
         $ gem install rails
