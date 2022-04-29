@@ -56,6 +56,10 @@ In addition to that, Rails also comes with:
 
 ## Getting Started
 
+- [Windows 10 Rails Kurulumu](https://ujk-ujk.blogspot.com/2022/04/windows-10-icin-rails-kurulumu.html)
+- [Curses gem kurulum hatası](https://lynxbee.com/how-to-resolve-fatal-error-curses-h-no-such-file-or-directory/#.YmuzJFBBzIU)
+- [ruby-build kurulması](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-20-04)
+
 1. Install Rails at the command prompt if you haven't yet:
 
         $ gem install rails
